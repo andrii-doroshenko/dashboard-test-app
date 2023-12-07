@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dashboard-test-app.git/static/css/main.f855e6bc.css",
-    "main.js": "/dashboard-test-app.git/static/js/main.75965ab5.js",
-    "static/js/787.d42dd7bc.chunk.js": "/dashboard-test-app.git/static/js/787.d42dd7bc.chunk.js",
-    "static/media/logo.svg": "/dashboard-test-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dashboard-test-app.git/index.html",
-    "main.f855e6bc.css.map": "/dashboard-test-app.git/static/css/main.f855e6bc.css.map",
-    "main.75965ab5.js.map": "/dashboard-test-app.git/static/js/main.75965ab5.js.map",
-    "787.d42dd7bc.chunk.js.map": "/dashboard-test-app.git/static/js/787.d42dd7bc.chunk.js.map"
+    "main.css": "/dashboard-test-app/static/css/main.f855e6bc.css",
+    "main.js": "/dashboard-test-app/static/js/main.76d412f0.js",
+    "static/js/787.d42dd7bc.chunk.js": "/dashboard-test-app/static/js/787.d42dd7bc.chunk.js",
+    "static/media/logo.svg": "/dashboard-test-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dashboard-test-app/index.html",
+    "main.f855e6bc.css.map": "/dashboard-test-app/static/css/main.f855e6bc.css.map",
+    "main.76d412f0.js.map": "/dashboard-test-app/static/js/main.76d412f0.js.map",
+    "787.d42dd7bc.chunk.js.map": "/dashboard-test-app/static/js/787.d42dd7bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.75965ab5.js"
+    "static/js/main.76d412f0.js"
   ]
 }
