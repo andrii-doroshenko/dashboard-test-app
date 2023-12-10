@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import ReactPaginate from "react-paginate";
-import { useState } from "react";
 
 const StyledReactPaginate = styled(ReactPaginate)`
   display: flex;
