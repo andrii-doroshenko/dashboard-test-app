@@ -31,7 +31,12 @@ export default function Layout() {
         <MainContainer>
           <Aside />
           <Section>
-            <Greeting>Hello Evano 👋🏼 ,</Greeting>
+            <Greeting>
+              Hello Evano{" "}
+              <span role="img" aria-label="Waving Hand">
+                👋🏼
+              </span>
+            </Greeting>
             <Outlet />
           </Section>
         </MainContainer>
