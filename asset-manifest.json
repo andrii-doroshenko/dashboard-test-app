@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dashboard-test-app/static/css/main.58462fbc.css",
-    "main.js": "/dashboard-test-app/static/js/main.5a7a762e.js",
+    "main.js": "/dashboard-test-app/static/js/main.0c390e2d.js",
     "static/media/d-square-icon.svg": "/dashboard-test-app/static/media/d-square-icon.4bbf4711a9ec9eb579a0049c0a78ffc8.svg",
     "static/media/discount-shape-icon.svg": "/dashboard-test-app/static/media/discount-shape-icon.306aac5cc3d0763f54054d05f521b456.svg",
     "static/media/wallet-money-icon.svg": "/dashboard-test-app/static/media/wallet-money-icon.1283491e2cc12e1b01c38a374fffb480.svg",
@@ -13,10 +13,10 @@
     "static/media/search-icon.svg": "/dashboard-test-app/static/media/search-icon.4b4e53514da6b9809b233b220f4292ab.svg",
     "static/media/chevron-right-icon.svg": "/dashboard-test-app/static/media/chevron-right-icon.ba9c27ddf3fe30aa4f9972d75ce6e2cb.svg",
     "main.58462fbc.css.map": "/dashboard-test-app/static/css/main.58462fbc.css.map",
-    "main.5a7a762e.js.map": "/dashboard-test-app/static/js/main.5a7a762e.js.map"
+    "main.0c390e2d.js.map": "/dashboard-test-app/static/js/main.0c390e2d.js.map"
   },
   "entrypoints": [
     "static/css/main.58462fbc.css",
-    "static/js/main.5a7a762e.js"
+    "static/js/main.0c390e2d.js"
   ]
 }
