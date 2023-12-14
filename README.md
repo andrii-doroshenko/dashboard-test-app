@@ -21,7 +21,7 @@ This dashboard test app is designed to showcase basic dashboard components using
 
 - React-based dashboard
 - Sample charts and tables
-- Responsive design (soon..)
+- Responsive design
 
 ## Getting Started
 

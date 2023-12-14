@@ -42,6 +42,7 @@ const PaginationContainer = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 30px 0;
 
   & p {
     color: #b5b7c0;

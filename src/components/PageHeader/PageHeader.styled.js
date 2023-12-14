@@ -2,14 +2,22 @@ import styled from "styled-components";
 import SearchIcon from "img/search-icon.svg";
 
 export const Header = styled.div`
-  margin-bottom: 40px;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  gap: 15px;
   align-items: center;
+  padding-top: 1rem;
+
+  @media screen and (min-width: 768px) {
+    padding-top: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
 `;
 
 export const Title = styled.div`
-  text-align: left;
+  text-align: center;
 
   & h2 {
     color: #000;
@@ -22,6 +30,10 @@ export const Title = styled.div`
     color: #16c098;
     font-size: 14px;
     font-weight: 400;
+  }
+
+  @media screen and (min-width: 768px) {
+    text-align: left;
   }
 `;
 
